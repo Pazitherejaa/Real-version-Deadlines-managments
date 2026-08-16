@@ -34,3 +34,5 @@ deathline-bot/
 | `/focus_start` | เริ่มจับเวลาโฟกัสทำงานสไตล์ Pomodoro / Co-working | `/focus_start minutes: 25 session_name: ปั่นโค้ด API` |
 | `/focus_stop` | ยกเลิก/หยุดช่วงเวลา Focus ปัจจุบัน | `/focus_stop` |
 | `/deathline_help` | แสดงคู่มือการใช้งานบอทและคำสั่งทั้งหมด | `/deathline_help` |
+
+To active bot use terminal and cd to the location of file then python bot.py to acitve it
